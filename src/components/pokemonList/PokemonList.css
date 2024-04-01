@@ -1,0 +1,18 @@
+.poke-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.btn-load {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: -25px 0 0 0;
+  border-radius: 5px;
+  width: 20rem;
+  margin-bottom: 15px;
+}
+
